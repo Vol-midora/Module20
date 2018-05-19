@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kodilla-exception/src/main/kodilla-exception.iml" filepath="$PROJECT_DIR$/kodilla-exception/src/main/kodilla-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/kodilla-good-patterns.iml" filepath="$PROJECT_DIR$/kodilla-good-patterns/src/main/kodilla-good-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-hibernate/kodilla-hibernate.iml" filepath="$PROJECT_DIR$/kodilla-hibernate/kodilla-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-hibernate_main.iml" group="kodilla-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-hibernate_test.iml" group="kodilla-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-jdbc/src/main/kodilla-jdbc.iml" filepath="$PROJECT_DIR$/kodilla-jdbc/src/main/kodilla-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/kodilla-module 4.iml" filepath="$PROJECT_DIR$/src/main/kodilla-module 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-patterns/src/test/kodilla-patterns.iml" filepath="$PROJECT_DIR$/kodilla-patterns/src/test/kodilla-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-rps/src/main/kodilla-rps.iml" filepath="$PROJECT_DIR$/kodilla-rps/src/main/kodilla-rps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-stream/src/main/kodilla-stream.iml" filepath="$PROJECT_DIR$/kodilla-stream/src/main/kodilla-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-testing/src/test/kodilla-testing.iml" filepath="$PROJECT_DIR$/kodilla-testing/src/test/kodilla-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/main/main.iml" filepath="$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/test/test.iml" filepath="$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
