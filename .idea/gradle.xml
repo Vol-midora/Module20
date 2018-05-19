@@ -3,20 +3,13 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-hibernate" />
+        <option name="gradleHome" value="C:/gradle-4.5.1" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/com.kodilla.patterns" />
-            <option value="$PROJECT_DIR$/kodilla-exception" />
-            <option value="$PROJECT_DIR$/kodilla-good-patterns" />
-            <option value="$PROJECT_DIR$/kodilla-jdbc" />
-            <option value="$PROJECT_DIR$/kodilla-patterns" />
-            <option value="$PROJECT_DIR$/kodilla-rps" />
-            <option value="$PROJECT_DIR$/kodilla-stream" />
-            <option value="$PROJECT_DIR$/kodilla-testing" />
-            <option value="$PROJECT_DIR$/rps" />
+            <option value="$PROJECT_DIR$/kodilla-hibernate" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

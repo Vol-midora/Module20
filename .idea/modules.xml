@@ -2,34 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.patterns.iml" group="com.kodilla.patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course_main.iml" group="kodilla-course" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course_test.iml" group="kodilla-course" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-exception.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-exception.iml" group="kodilla-exception" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-exception/kodilla-exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-exception/kodilla-exception_main.iml" group="kodilla-exception" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-exception/kodilla-exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-exception/kodilla-exception_test.iml" group="kodilla-exception" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-good-patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-good-patterns.iml" group="kodilla-good-patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-good-patterns/kodilla-good-patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-good-patterns/kodilla-good-patterns_main.iml" group="kodilla-good-patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-good-patterns/kodilla-good-patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-good-patterns/kodilla-good-patterns_test.iml" group="kodilla-good-patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.iml" group="kodilla-jdbc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc/kodilla-jdbc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc/kodilla-jdbc_main.iml" group="kodilla-jdbc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc/kodilla-jdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc/kodilla-jdbc_test.iml" group="kodilla-jdbc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" group="kodilla-patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns/kodilla-patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns/kodilla-patterns_main.iml" group="kodilla-patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns/kodilla-patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns/kodilla-patterns_test.iml" group="kodilla-patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" group="kodilla-rps" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps_main.iml" group="kodilla-rps" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps_test.iml" group="kodilla-rps" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" group="kodilla-stream" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-stream_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-stream_main.iml" group="kodilla-stream" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-stream_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-stream_test.iml" group="kodilla-stream" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" group="kodilla-testing" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing/kodilla-testing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing/kodilla-testing_main.iml" group="kodilla-testing" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing/kodilla-testing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing/kodilla-testing_test.iml" group="kodilla-testing" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rps/rps.iml" filepath="$PROJECT_DIR$/.idea/modules/rps/rps.iml" group="rps" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rps/rps_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rps/rps_main.iml" group="rps" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rps/rps_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rps/rps_test.iml" group="rps" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-exception/src/main/kodilla-exception.iml" filepath="$PROJECT_DIR$/kodilla-exception/src/main/kodilla-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/kodilla-good-patterns.iml" filepath="$PROJECT_DIR$/kodilla-good-patterns/src/main/kodilla-good-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-hibernate/kodilla-hibernate.iml" filepath="$PROJECT_DIR$/kodilla-hibernate/kodilla-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-hibernate_main.iml" group="kodilla-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-hibernate_test.iml" group="kodilla-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-jdbc/src/main/kodilla-jdbc.iml" filepath="$PROJECT_DIR$/kodilla-jdbc/src/main/kodilla-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/kodilla-module 4.iml" filepath="$PROJECT_DIR$/src/main/kodilla-module 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-patterns/src/test/kodilla-patterns.iml" filepath="$PROJECT_DIR$/kodilla-patterns/src/test/kodilla-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-rps/src/main/kodilla-rps.iml" filepath="$PROJECT_DIR$/kodilla-rps/src/main/kodilla-rps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-stream/src/main/kodilla-stream.iml" filepath="$PROJECT_DIR$/kodilla-stream/src/main/kodilla-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-testing/src/test/kodilla-testing.iml" filepath="$PROJECT_DIR$/kodilla-testing/src/test/kodilla-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/main/main.iml" filepath="$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/test/test.iml" filepath="$PROJECT_DIR$/../kodilla-patterns2/kodilla-patterns2/src/test/test.iml" />
     </modules>
   </component>
 </project>
